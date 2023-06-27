@@ -12,8 +12,7 @@ export default class Education extends Component {
                             <img src="/images/education-logo.png"></img>
                         </div>
                         <div className="education-description">
-                            Kharkiv National University of Radioelectronics
-                            Computer systems and networks 2003-2008
+                            Universitas klabat 
                         </div>
                     </li>
                 </ul>

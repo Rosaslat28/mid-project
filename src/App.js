@@ -15,10 +15,10 @@ class App extends Component {
             <div className="App">
                 <Header/>
                 <About/>
-                <Contacts/>
                 <Experience/>
                 <Skills/>
                 <Education/>
+                <Contacts/>
             </div>
         );
     }

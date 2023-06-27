@@ -18,8 +18,8 @@ export default class Header extends Component {
                             <div className="logo">
                             </div>
                             <div className="logo-description">
-                                <p>Pasichnik Roman</p>
-                                <p>Web Developer</p>
+                                <p>Rosa Rahel Slat</p>
+                                <p>Data Analyst</p>
                             </div>
                         </div>
                         <div className="navbar">
@@ -35,8 +35,8 @@ export default class Header extends Component {
                     <a href="javascript:window.print();" className="printit">print it!</a>
                 </nav>
                 <div className="jumbotron">
-                    <p>Hello world!</p>
-                    <p>And welcome to my Reactjs CV, learn more about me and my skills</p>
+                    <p>"Selamat datang! Saya ingin berbagi CV saya untuk menjelaskan latar belakang dan minat karier saya." </p>
+            
                 </div>
             </header>
         )

@@ -4,9 +4,46 @@ import React, {Component} from 'react';
 export default class About extends Component {
     render() {
         return (
-            <section className="about" id="about">
-                My name is Roman Pasichnik from Kharkov, Ukraine. Have been working over 5 years as web developer.
-                I am curious in different technologies and solutions, communicative and motivated. Love coding and rollerblading.
+            <section className="experience" id="experience">
+                <h2>Biodata</h2>
+                <ul className="companies">
+                    <li>
+                        <h3>Nama : Rosa Rahel Slat</h3>
+                        <div className="company-container">
+                            <div className="company-logo">
+                            </div>
+                            <div className="company-position">
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h3>Tanggal lahir : 28 Agustus 2003</h3>
+                        <div className="company-container">
+                            <div className="company-logo">
+                            </div>
+                            <div className="company-position">
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h3>Alamat : Woloan satu utara, Kota Tomohon, Sulawesi Utara</h3>
+                        <div className="company-container">
+                            <div className="company-logo">
+                            </div>
+                            <div className="company-position">
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h3>Status : Mahasiswa</h3>
+                        <div className="company-container">
+                            <div className="company-logo">
+                            </div>
+                            <div className="company-position">
+                            </div>
+                        </div>
+                    </li>
+                </ul>
             </section>
         )
     }

@@ -6,10 +6,10 @@ export default class Contacts extends Component {
                 <div className="green-line">
                     <h2>Contacts:</h2>
                     <ul className="contacts-list">
-                        <li>skype: pasichnikroman	|</li>
-                        <li>email: pasichnikroman@gmail.com	|</li>
-                        <li>github: pasichnikroman 	|</li>
-                        <li>tel: +38 093 710 97 54	|</li>
+                        <li>instagram: @rosaslat	|</li>
+                        <li>email: S2200673@gmail.com	|</li>
+                        <li>github: Rosaslat28 	|</li>
+                        <li>tel: 085696218069	|</li>
                     </ul>
                 </div>
             </section>

@@ -1,21 +1,24 @@
 header {
-  position: relative;
+ position: relative;
 }
 
 header .top-menu {
   position: absolute;
   top: 0px;
   height: 107px;
-  background: rgba(255, 255, 255, .5); ;
+  color: #ffffff;
+  background: rgba(80, 87, 131, 0.5); ;
   width: 100%;
 }
 header  .top-menu .menu-container {
   max-width: 1100px;
   margin: 0 auto;
+
 }
 
 header .top-menu ul{
   list-style: none;
+  ;
 }
 
 header .logo-container {
@@ -23,11 +26,11 @@ header .logo-container {
 }
 
 header .logo-container .logo {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   display: block;
   border-radius: 100%;
-  background: url(/images/logo.png) -5px -6px;
+  background: url(/images/logo.jpg) -5px -6px;
   background-size: 110%;
   float: left;
 
@@ -63,7 +66,7 @@ header .printit {
   top: 10px;
   color: #ffffff;
   padding: 5px 10px;
-  background: #2daf39;
+  background: #0b2b71;
   border-radius: 20px;
   font-size: 12px;
 }
@@ -95,7 +98,7 @@ section.about {
 }
 
 section.contacts .green-line {
-  background: #2daf39;
+  background: #0b2b71;
   color: #ffffff;
   border-radius: 50px;
   margin: 0 -50px;
